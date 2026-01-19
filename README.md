@@ -14,10 +14,10 @@ The goal is to demonstrate **data analysis, visualization, and storytelling skil
 - Identify **weekly growth trends** and highlight countries with significant changes.
 
 ## Tools & Libraries
-- **Pandas** → Data cleaning, aggregation, and statistical summaries.
-- **Seaborn & Matplotlib** → Heatmaps, scatter plots, histograms, and bar charts.
-- **NumPy** → Numerical operations.
-- **Jupyter Notebook** → Interactive analysis and visualization.
+- **Pandas** - Data cleaning, aggregation, and statistical summaries.
+- **Seaborn & Matplotlib** - Heatmaps, scatter plots, histograms, and bar charts.
+- **NumPy** - Numerical operations.
+- **Jupyter Notebook** - Interactive analysis and visualization.
 
 ## Key Analyses
 1. **Correlation Matrix Heatmap**  
